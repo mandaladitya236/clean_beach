@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshijai2/Clean-beach-please.git"
+    "url": "git+https://github.com/mandaladitya236/Clean-beach.git"
   },
   "author": "Aditya mandal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mandaladitya236/Clean-beach-please/issues"
+    "url": "https://github.com/mandaladitya236/Clean-beach/issues"
   },
-  "homepage": "https://github.com/mandaladitya236/Clean-beach-please#readme",
+  "homepage": "https://github.com/mandaladitya236/Clean-beach#readme",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
