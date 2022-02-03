@@ -12,12 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/joshijai2/Clean-beach-please.git"
   },
-  "author": "Jai Joshi, Abhinaba Mitra, Kushagra Agarwal",
+  "author": "Aditya mandal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joshijai2/Clean-beach-please/issues"
+    "url": "https://github.com/mandaladitya236/Clean-beach-please/issues"
   },
-  "homepage": "https://github.com/joshijai2/Clean-beach-please#readme",
+  "homepage": "https://github.com/mandaladitya236/Clean-beach-please#readme",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
